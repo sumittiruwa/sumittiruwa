@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Sumit Tiruwa
 
-<!--
-**sumittiruwa/sumittiruwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BCA Student & Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- HTML, CSS, JavaScript  
+- PHP, MySQL  
+- Basic React (learning)  
+- Git & GitHub  
+
+---
+
+## 📂 Featured Projects
+- 🚗 Car Rental System (PHP + MySQL)
+- 🎬 Movie Search App (JavaScript API)
+- 🍔 Food Delivery Website
+- 🛠️ Admin Management System
+
+---
+
+## 📈 Goals
+- Become Full Stack Developer
+- Learn MERN Stack
+- Build real-world scalable apps
+
+---
+
+## 📫 Contact
+- Email: your-email@gmail.com
+- GitHub: https://github.com/sumittiruwa
