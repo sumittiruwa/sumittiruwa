@@ -5,10 +5,10 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **TypeScript, Prisma, Docker, Redis**
-- 🎯 Goal: **Become a Software Engineer**
-- 🔥 Passionate about **Full Stack Development**
-- 📍 Based in Nepal
+- 🎓 BCA Student passionate about Software Development
+- 💻 Building projects with MERN Stack, Laravel, and Python
+- 🚀 Exploring Backend Development, SaaS Architecture, and Cloud Technologies
+- 📚 Continuously learning new technologies and best practices
 
 ---
 
@@ -51,13 +51,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumittiruwa&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=sumittiruwa&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumittiruwa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sumittiruwa&theme=tokyonight&margin-w=15" />
 </p>
 
 ---
@@ -73,7 +73,22 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sumittiruwa/sumittiruwa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sumittiruwa/sumittiruwa/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/sumittiruwa/sumittiruwa/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumittiruwa&theme=tokyo-night" />
 </p>
 
 ---
@@ -87,7 +102,7 @@
   <a href="mailto:YOUR_EMAIL">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/sumittiruwa">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
@@ -96,7 +111,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=sumittiruwa&color=blueviolet)
 
 > "Code, Learn, Build, Repeat 🚀"
 
