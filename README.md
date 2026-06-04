@@ -107,6 +107,13 @@ const sumit = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://sumittiruwa.com.np)
 
 </div>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumittiruwa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiruwa&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumittiruwa&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
