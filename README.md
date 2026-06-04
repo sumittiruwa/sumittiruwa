@@ -83,24 +83,6 @@ const sumit = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sumittiruwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumittiruwa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiruwa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -111,13 +93,18 @@ const sumit = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 Coding Activity
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumittiruwa&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/sumittiruwa)
-
-</div>
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░  38.2%
+TypeScript    7 hrs 10 mins  ███████░░░░░░░░░░░░░░  21.9%
+PHP           5 hrs 50 mins  █████░░░░░░░░░░░░░░░░  17.8%
+Python        4 hrs 20 mins  ████░░░░░░░░░░░░░░░░░  13.3%
+CSS/HTML      2 hrs 40 mins  ██░░░░░░░░░░░░░░░░░░░   8.1%
+Other         0 hrs 10 mins  ░░░░░░░░░░░░░░░░░░░░░   0.7%
+```
+<!--END_SECTION:waka-->
 
 ---
 
