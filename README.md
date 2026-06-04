@@ -83,6 +83,44 @@ const sumit = {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sumittiruwa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumittiruwa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiruwa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Sumit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumittiruwa&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/sumittiruwa)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumittiruwa&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/sumittiruwa)
+
+</div>
+
+---
+
 ## 😂 Quotes I Live By
 
 > *"It works on my machine."* 🤷
@@ -101,18 +139,11 @@ const sumit = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sumit-tiruwa-baa352329/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-tiruwa-baa352329/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumittiruwa913@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiruwa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://sumittiruwa.com.np)
 
-</div>
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumittiruwa&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiruwa&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumittiruwa&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
