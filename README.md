@@ -87,7 +87,7 @@ const sumit = {
 
 <div align="center">
 
-[![Sumit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumittiruwa&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/sumittiruwa)
+[![Sumit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumittiruwa&theme=tokyo-night&hide_border=true&area=true&bar_color=1D9E75&custom_title=Contribution%20Graph)](https://github.com/sumittiruwa)
 
 </div>
 
@@ -104,7 +104,7 @@ CSS/HTML      2 hrs 40 mins  ██░░░░░░░░░░░░░░░
 Other         0 hrs 10 mins  ░░░░░░░░░░░░░░░░░░░░░   0.7%
 ```
 
-> 🕐 Total: **32 hrs 40 mins** coded across all time on GitHub
+> 🕐 Total: **32 hrs 40 mins** coded all time
 
 ---
 
