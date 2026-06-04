@@ -83,41 +83,17 @@ const sumit = {
 
 ---
 
-## 💬 Quotes I Live By
+## 😂 Quotes I Live By
 
-> *"The best way to predict the future is to invent it."*
-> — Alan Kay
+> *"It works on my machine."* 🤷
 
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
+> *"99 little bugs in the code, take one down, patch it around... 127 little bugs in the code."* 🐛
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-> — Martin Fowler
+> *"I don't always test my code, but when I do, I do it in production."* 😬
 
-> *"Code is like humor. When you have to explain it, it's bad."*
-> — Cory House
+> *"A developer's diet: coffee, Stack Overflow, and regret."* ☕
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumittiruwa&theme=tokyo-night&hide_border=true&bg_color=0d0d14&color=38bdf8&line=7c3aed&point=a78bfa" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumittiruwa/sumittiruwa/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumittiruwa/sumittiruwa/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sumittiruwa/sumittiruwa/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
+> *"Git blame — because it's never your fault."* 😇
 
 ---
 
