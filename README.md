@@ -93,9 +93,8 @@ const sumit = {
 
 ---
 
-## 📊 Coding Activity
+## 📊 Coding Activity — All Time
 
-<!--START_SECTION:waka-->
 ```text
 JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░  38.2%
 TypeScript    7 hrs 10 mins  ███████░░░░░░░░░░░░░░  21.9%
@@ -104,7 +103,8 @@ Python        4 hrs 20 mins  ████░░░░░░░░░░░░░
 CSS/HTML      2 hrs 40 mins  ██░░░░░░░░░░░░░░░░░░░   8.1%
 Other         0 hrs 10 mins  ░░░░░░░░░░░░░░░░░░░░░   0.7%
 ```
-<!--END_SECTION:waka-->
+
+> 🕐 Total: **32 hrs 40 mins** coded across all time on GitHub
 
 ---
 
