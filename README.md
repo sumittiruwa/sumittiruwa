@@ -91,10 +91,6 @@ const sumit = {
 
 </div>
 
----
-
-
----
 
 ## 😂 Quotes I Live By
 
