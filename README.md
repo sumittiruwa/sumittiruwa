@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Tiruwa</h1>
-<h3 align="center">Full Stack Developer · MERN Stack · PHP / Laravel · Python</h3>
+<h3 align="center">Full Stack Developer /h3>
 
 ---
 
