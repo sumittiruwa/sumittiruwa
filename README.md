@@ -93,18 +93,6 @@ const sumit = {
 
 ---
 
-## 📊 Coding Activity — All Time
-
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░  38.2%
-TypeScript    7 hrs 10 mins  ███████░░░░░░░░░░░░░░  21.9%
-PHP           5 hrs 50 mins  █████░░░░░░░░░░░░░░░░  17.8%
-Python        4 hrs 20 mins  ████░░░░░░░░░░░░░░░░░  13.3%
-CSS/HTML      2 hrs 40 mins  ██░░░░░░░░░░░░░░░░░░░   8.1%
-Other         0 hrs 10 mins  ░░░░░░░░░░░░░░░░░░░░░   0.7%
-```
-
-> 🕐 Total: **32 hrs 40 mins** coded all time
 
 ---
 
