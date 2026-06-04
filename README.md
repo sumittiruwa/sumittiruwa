@@ -83,28 +83,19 @@ const sumit = {
 
 ---
 
-## 📊 GitHub Stats
+## 💬 Quotes I Live By
 
-<div align="center">
+> *"The best way to predict the future is to invent it."*
+> — Alan Kay
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sumittiruwa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=38bdf8&icon_color=7c3aed&text_color=94a3b8&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=sumittiruwa&theme=tokyonight&hide_border=true&background=0d0d14&ring=7c3aed&fire=38bdf8&currStreakLabel=38bdf8" />
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
 
-<br/>
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
+> — Martin Fowler
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumittiruwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=38bdf8&text_color=94a3b8&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumittiruwa&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=7" width="100%" />
-
-</div>
+> *"Code is like humor. When you have to explain it, it's bad."*
+> — Cory House
 
 ---
 
