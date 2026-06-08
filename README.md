@@ -61,16 +61,7 @@ const sumit: Developer = {
 - 📍 Based in **Kathmandu, Nepal**
 
 </td>
-<td>
 
-- 🔭 Currently working on a **multi-tenant SaaS platform**
-- 💡 Obsessed with clean architecture & DX
-- 🤝 Open to meaningful **collaborations**
-- ✍️ Love writing readable, maintainable code
-- ☕ Fuelled by coffee and Stack Overflow
-- 🧩 Problem-solver at heart
-
-</td>
 </tr>
 </table>
 
@@ -148,13 +139,6 @@ const sumit: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumittiruwa&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6)](https://github.com/sumittiruwa)
-
-</div>
 
 ---
 
