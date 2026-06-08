@@ -49,21 +49,7 @@ const sumit: Developer = {
 };
 ```
 
-<table>
-<tr>
-<td>
 
-- 🎓 **BCA Student** — turning theory into real products
-- 💻 Building with **MERN**, **Laravel**, and **Python**
-- 🚀 Exploring **SaaS**, **Cloud Tech**, and **Backend Systems**
-- 🧪 Automation & QA with **Selenium** & **JMeter**
-- 🌱 Always learning, always shipping
-- 📍 Based in **Kathmandu, Nepal**
-
-</td>
-
-</tr>
-</table>
 
 ---
 
