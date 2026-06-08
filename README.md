@@ -123,21 +123,7 @@ const sumit: Developer = {
 
 </div>
 
----
 
-
----
-
-## 💡 What I'm Working On
-
-```
-🔨  Multi-tenant SaaS platform (MERN + Stripe + Docker)
-🧪  Automated test suite with Selenium Grid
-📦  Laravel REST API with Sanctum + Redis caching
-🌐  Personal portfolio v3 — sumittiruwa.com.np
-```
-
----
 
 ## 😂 Developer Laws I Live By
 
