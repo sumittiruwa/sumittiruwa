@@ -1,14 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sumit%20Tiruwa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Nepal%20🇳🇵&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sumit%20Tiruwa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=58&descSize=17&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=500&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;MERN+%7C+Laravel+%7C+Python+%7C+Docker;Open+to+collabs+%26+opportunities!;Code%2C+Learn%2C+Build%2C+Repeat+%F0%9F%94%81)](https://git.io/typing-svg)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=580&lines=⚡+Building+the+future%2C+one+commit+at+a+time;🧠+MERN+%7C+Laravel+%7C+Python+%7C+Docker;🌐+Open+to+collabs+%26+remote+opportunities;🔁+Code+→+Learn+→+Build+→+Repeat)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sumittiruwa&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
-&nbsp;
-<a href="https://github.com/sumittiruwa?tab=followers"><img src="https://img.shields.io/github/followers/sumittiruwa?style=for-the-badge&color=0ea5e9&labelColor=0f172a&label=FOLLOWERS" /></a>
+![Profile Views](https://komarev.com/ghpvc/?username=sumittiruwa&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
+&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/sumittiruwa?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&label=FOLLOWERS)](https://github.com/sumittiruwa?tab=followers)
+&nbsp;&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/sumittiruwa?style=for-the-badge&color=f59e0b&labelColor=1e1b4b&label=TOTAL+STARS)](https://github.com/sumittiruwa)
 
 </div>
 
@@ -17,69 +27,114 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const sumit = {
-  name:       "Sumit Tiruwa",
-  location:   "Kathmandu, Nepal 🇳🇵",
-  education:  "BCA Student",
-  role:       "Full Stack Developer",
-  interests:  ["SaaS Architecture", "Backend Dev", "Cloud Tech", "Open Source"],
-  currently:  "Building cool stuff with MERN, Laravel & Python",
-  motto:      "Code, Learn, Build, Repeat 🚀",
+const sumit: Developer = {
+  name:        "Sumit Tiruwa",
+  location:    "Kathmandu, Nepal 🇳🇵",
+  education:   "Bachelor of Computer Applications (BCA)",
+  role:        "Full Stack Developer",
+
+  stack: {
+    frontend:  ["React", "Next.js", "TypeScript", "TailwindCSS"],
+    backend:   ["Node.js", "Express", "Laravel", "PHP"],
+    database:  ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    devops:    ["Docker", "Git", "Linux", "CI/CD"],
+    testing:   ["Selenium", "Apache JMeter"],
+    data:      ["Python", "NumPy", "Pandas"],
+  },
+
+  currently:   "Building production-grade SaaS apps 🛠️",
+  exploring:   ["Cloud Architecture", "Microservices", "AI Integration"],
+  openTo:      ["Collaborations", "Freelance", "Remote Roles"],
+  motto:       "Code. Learn. Build. Repeat. 🚀",
 };
 ```
 
-- 🎓 **BCA Student** passionate about software development
-- 💻 Building projects with **MERN Stack**, **Laravel**, and **Python**
-- 🚀 Exploring **Backend Development**, **SaaS Architecture**, and **Cloud Technologies**
-- 🧪 Writing tests & automation with **Selenium** & **JMeter**
-- 📚 Continuously learning new technologies and best practices
+<table>
+<tr>
+<td>
+
+- 🎓 **BCA Student** — turning theory into real products
+- 💻 Building with **MERN**, **Laravel**, and **Python**
+- 🚀 Exploring **SaaS**, **Cloud Tech**, and **Backend Systems**
+- 🧪 Automation & QA with **Selenium** & **JMeter**
+- 🌱 Always learning, always shipping
 - 📍 Based in **Kathmandu, Nepal**
+
+</td>
+<td>
+
+- 🔭 Currently working on a **multi-tenant SaaS platform**
+- 💡 Obsessed with clean architecture & DX
+- 🤝 Open to meaningful **collaborations**
+- ✍️ Love writing readable, maintainable code
+- ☕ Fuelled by coffee and Stack Overflow
+- 🧩 Problem-solver at heart
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3B82F6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### ⚙️ Backend — JS / TS
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### 🐘 Backend — PHP
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=22C55E)
+![Express.js](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=Prisma&logoColor=A78BFA)
+![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=7C3AED)
+![Laravel](https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 
 ### 🐍 Python & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=F59E0B)
+![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=4B8BBE)
+![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=E44D26)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=00758F)
+![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=DC382D)
 
 ### 🧪 Testing & QA
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-0f172a?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![JMeter](https://img.shields.io/badge/JMeter-0f172a?style=for-the-badge&logo=apache&logoColor=D22128)
 
-### 🚀 Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Postman](https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Jira](https://img.shields.io/badge/Jira-0f172a?style=for-the-badge&logo=jira&logoColor=0052CC)
+![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumittiruwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&ring_color=7c3aed"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumittiruwa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiruwa&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" width="70%"/>
+
+</div>
 
 ---
 
@@ -87,42 +142,75 @@ const sumit = {
 
 <div align="center">
 
-[![Sumit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumittiruwa&theme=tokyo-night&hide_border=true&area=true&bar_color=1D9E75&custom_title=Contribution%20Graph)](https://github.com/sumittiruwa)
-
-</div>
-
-
-## 😂 Quotes I Live By
-
-> *"It works on my machine."* 🤷
-
-> *"99 little bugs in the code, take one down, patch it around... 127 little bugs in the code."* 🐛
-
-> *"I don't always test my code, but when I do, I do it in production."* 😬
-
-> *"A developer's diet: coffee, Stack Overflow, and regret."* ☕
-
-> *"Git blame — because it's never your fault."* 😇
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-tiruwa-baa352329/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumittiruwa913@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiruwa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://sumittiruwa.com.np)
+[![Sumit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumittiruwa&theme=tokyo-night&hide_border=true&area=true&area_color=7c3aed&line=a78bfa&point=ffffff&custom_title=Contribution%20Activity%20—%20Sumit%20Tiruwa&bg_color=0d1117)](https://github.com/sumittiruwa)
 
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumittiruwa&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6)](https://github.com/sumittiruwa)
 
-*"Code, Learn, Build, Repeat 🚀"*
+</div>
+
+---
+
+## 💡 What I'm Working On
+
+```
+🔨  Multi-tenant SaaS platform (MERN + Stripe + Docker)
+🧪  Automated test suite with Selenium Grid
+📦  Laravel REST API with Sanctum + Redis caching
+🌐  Personal portfolio v3 — sumittiruwa.com.np
+```
+
+---
+
+## 😂 Developer Laws I Live By
+
+> 💻 *"It works on my machine."* — Classic.
+
+> 🐛 *"99 little bugs in the code… take one down, patch it around… 127 little bugs in the code."*
+
+> 😬 *"I don't always test my code — but when I do, I do it in production."*
+
+> ☕ *"A developer's diet: coffee, Stack Overflow, and regret."*
+
+> 😇 *"Git blame — because it's never your fault."*
+
+> 🔥 *"Any sufficiently advanced bug is indistinguishable from a feature."*
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-tiruwa-baa352329/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumittiruwa913@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiruwa)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=firefox&logoColor=white)](https://sumittiruwa.com.np)
+
+<br/>
+
+> 💬 *I'm always happy to collaborate, discuss ideas, or just chat about tech. Reach out anytime!*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+**`{ Code. Learn. Build. Repeat. 🚀 }`**
+
+*Made with ❤️ from Kathmandu, Nepal*
 
 </div>
