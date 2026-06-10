@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sumit%20Tiruwa&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20BCA%20Student%20%7C%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descAlignY=58&descSize=17&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
@@ -169,4 +169,4 @@ const sumit: Developer = {
 
 *Made with ❤️ from Kathmandu, Nepal*
 
-</div>
+</div> -->
