@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sumit Tiruwa
 
-### Full Stack Developer | BCA Student | Nepal 🇳🇵
+### Full Stack Developer | BCA Student | Nepal np
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Laravel+%7C+Python;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
 
