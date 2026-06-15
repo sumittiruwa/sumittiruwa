@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # 👋 Hi, I'm Sumit Tiruwa
 
@@ -117,4 +117,4 @@ const sumit = {
 
 ### 🚀 Code • Learn • Build • Repeat
 
-</div>
+</div> -->
