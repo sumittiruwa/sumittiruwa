@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,100:2E5FB7&height=200&section=header&text=Sumit%20Tiruwa&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Your%20Friendly%20Neighborhood%20Developer&descSize=18&descAlignY=58&animation=fadeIn"/>
+
 <div align="center">
 
 # 🕷️ Hi, I'm Sumit Tiruwa
@@ -97,6 +99,18 @@ const sumit = {
 
 </div>
 
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumittiruwa&bg_color=15151E&color=E62429&line=2E5FB7&point=FFFFFF&area=true&hide_border=true&custom_title=Web-Slinging%20Activity"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sumittiruwa&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10"/>
+
+</div>
+
 ---
 
 # 🌐 Sling A Web My Way
@@ -115,6 +129,16 @@ const sumit = {
 
 ---
 
+# 🕸️ The Web Crawler
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/sumittiruwa/sumittiruwa/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🕷️ Code • Learn • Build • Web-sling • Repeat
@@ -122,3 +146,5 @@ const sumit = {
 *"With great power comes great responsibility... to ship clean code."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5FB7,100:E62429&height=150&section=footer&animation=fadeIn"/>
