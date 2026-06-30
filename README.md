@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,100:2E5FB7&height=200&section=header&text=Sumit%20Tiruwa&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Your%20Friendly%20Neighborhood%20Developer&descSize=18&descAlignY=58&animation=fadeIn"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,100:2E5FB7&height=200&section=header&text=Sumit%20Tiruwa&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Your%20Friendly%20Neighborhood%20Developer&descSize=18&descAlignY=58&animation=fadeIn"/>
 
 <div align="center">
 
@@ -147,4 +147,4 @@ const sumit = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5FB7,100:E62429&height=150&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E5FB7,100:E62429&height=150&section=footer&animation=fadeIn"/> -->
